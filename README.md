@@ -2,7 +2,7 @@
 My name is Henrique Alves,  I'm a IT instructor passionate for techology and software development.
 ## Status
   <div>
-  <a href="https://github.com/rickalves/rickalves">
+  <a href="https://github.com/rickalves">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
     <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact"/>
   </a>
@@ -10,7 +10,7 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
   
 ## Knowlegde
 <div>
-  <a href="https://github.com/rickalves/rickalves">
+  <a href="https://github.com/rickalves">
     <img title="HTML5" alt="DEV-ICON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img title="CSS3" alt="DEV-ICON" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img title="JAVASCRIPT" alt="DEV-ICON" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
