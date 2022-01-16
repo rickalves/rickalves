@@ -3,8 +3,8 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
 ##
   <div align="center">
   <a href="https://github.com/rickalves">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact"/>
   </a>
  </div>
   
