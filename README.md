@@ -1,10 +1,15 @@
 ### Hi there 👋
 
 ## Status
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast)](https://github.com/rickalves/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact)](https://github.com/rickalves/github-readme-stats)
-
+  <div>
+  <a href="https://github.com/rickalves/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
+  </a>
+  <a href="https://github.com/rickalves/github-readme-stats" style="margin-left:20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact"/>
+  </a>
+ </div>
+  
 ## Knowlegde
 
 <div style="display:inline-block">
@@ -15,9 +20,8 @@
   <img title="REACT" alt="DEV-ICON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="BOOTSTRAP" alt="DEV-ICON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img title="WEBPACK" alt="DEV-ICON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
-  <img title="JAVASCRIPT" alt="DEV-ICON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img title="JAVASCRIPT" alt="DEV-ICON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img title="JAVASCRIPT" alt="DEV-ICON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img title="MYSQL" alt="DEV-ICON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="JAVA" alt="DEV-ICON" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 <!--
