@@ -19,6 +19,7 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
     <img title="WEBPACK" alt="DEV-ICON" height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
     <img title="MYSQL" alt="DEV-ICON"  height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img title="JAVA" alt="DEV-ICON"  height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  </a>
 </div>
 
 ## Studying
@@ -32,7 +33,6 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
     <img title="FLUTTER" alt="DEV-ICON"height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
     <img title="PYTHON" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
-  
 </div>
 
 ## Contact Me!
