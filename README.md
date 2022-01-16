@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 My name is Henrique Alves,  I'm a IT instructor passionate for techology and software development.
-### Status
+## Status
   <div>
   <a href="https://github.com/rickalves/rickalves">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
@@ -8,7 +8,7 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
   </a>
  </div>
   
-### Knowlegde
+## Knowlegde
 <div>
   <img title="HTML5" alt="DEV-ICON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img title="CSS3" alt="DEV-ICON" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -20,7 +20,7 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
   <img title="JAVA" alt="DEV-ICON" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
-### Studying
+## Studying
 <div>
  <img title="REACT" alt="DEV-ICON" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="VUE.JS" alt="DEV-ICON" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
