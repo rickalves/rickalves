@@ -18,7 +18,7 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
     <img title="BOOTSTRAP" alt="DEV-ICON"  height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
     <img title="WEBPACK" alt="DEV-ICON" height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
     <img title="MYSQL" alt="DEV-ICON"  height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img title="JAVA" alt="DEV-ICON"  height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img title="JAVA" alt="DEV-ICON"  margin-top="2rem" height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   </a>
 </div>
 
