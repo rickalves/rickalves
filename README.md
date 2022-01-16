@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Henrique Alves,  I'm a IT instructor passionate for techology and software development.
 ##
-  <div>
+  <div align="center">
   <a href="https://github.com/rickalves">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
     <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact"/>
