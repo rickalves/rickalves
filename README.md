@@ -3,7 +3,7 @@
 ## Status
   <div>
   <a href="https://github.com/rickalves/rickalves">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
     <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact"/>
   </a>
  </div>
