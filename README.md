@@ -2,15 +2,12 @@
 My name is Henrique Alves,  I'm a IT instructor passionate for techology and software development.
 ##
   <div align="center">
-  <a href="https://github.com/rickalves">
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
     <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact"/>
-  </a>
  </div>
   
-## Knowlegde
+## Tecnologies
 <div style="display: inline_block">
-  <a href="https://github.com/rickalves">
     <img title="HTML5" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img title="CSS3" alt="DEV-ICON" height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img title="JAVASCRIPT" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -18,14 +15,15 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
     <img title="MYSQL" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img title="JAVA" alt="DEV-ICON" height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img title="REACT" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<!--     <img title="VUE.JS" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> -->
-<!--     <img title="AWS" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /> -->
+    <img title="AWS" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+ </div>
+  
+<!--  <img title="VUE.JS" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> -->
+
 <!--     <img title="DOCKER" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
     <img title="ANGULAR" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/> -->
     <!--<img title="FLUTTER" alt="DEV-ICON"height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-    <img title="PYTHON" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>-->
-  </a>
-</div>
+ <img title="PYTHON" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>-->
 
 ## Contact me!
   <div>
