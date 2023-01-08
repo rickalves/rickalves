@@ -14,8 +14,9 @@ My name is Henrique Alves,  I'm a IT instructor passionate for techology and sof
     <img title="JAVASCRIPT" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img title="NODEJS" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img title="MYSQL" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img title="JAVA" alt="DEV-ICON" height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img title="PYTHON" alt="DEV-ICON" height="30" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/python-original.svg" />
     <img title="AWS" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img title="GCP" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/googlecloud-original.svg" />
  </div>
   
 <!--  
