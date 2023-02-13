@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Henrique Alves,  I'm a IT instructor passionate for techology and software development.
+My name is Henrique Alves,  I'm an IT instructor passionate for techology and software development.
 ##
   <div align="center">
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
