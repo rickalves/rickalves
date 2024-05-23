@@ -19,6 +19,7 @@ My name is Henrique Alves,  I'm an IT instructor passionate for techology and so
     <img title="AWS" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
     <img title="GCP" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
     <img title="MONGODB" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img title="FIGMA" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
  </div>
   
 <!--  
