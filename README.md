@@ -22,12 +22,6 @@ Meu nome é **Henrique Alves**. Sou instrutor de TI apaixonado por tecnologia e 
 
 - **[API NodeJS JWT](https://github.com/rickalves/api-nodejs-jwt)**  
   API construída com Node.js, utilizando autenticação JWT para garantir a segurança. Um exemplo prático de como implementar autenticação robusta em aplicações modernas.
-  
-- **[Website EEEP](https://github.com/rickalves/website-eeep)**  
-  Website desenvolvido para a instituição EEEP, demonstrando habilidades em design responsivo, desenvolvimento web e integração de serviços.
-  
-- **[Bibliotech](https://github.com/rickalves/bibliotech)**  
-  Projeto voltado para a gestão de bibliotecas, proporcionando uma interface intuitiva e eficiente para o gerenciamento de acervo e empréstimos.
 
 *Confira mais projetos no meu [GitHub](https://github.com/rickalves).*
 
@@ -56,6 +50,14 @@ Meu nome é **Henrique Alves**. Sou instrutor de TI apaixonado por tecnologia e 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickalves&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=rickalves&theme=highcontrast"/>
 </p>
 
 ---
