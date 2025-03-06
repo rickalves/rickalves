@@ -1,6 +1,6 @@
-# Olá, seja bem-vindo(a)! 👋
+# Hello, welcome! 👋
 
-Meu nome é **Henrique Alves**. Sou instrutor de TI apaixonado por tecnologia e desenvolvimento de software. Acredito na educação contínua e na troca de conhecimento para criar soluções inovadoras.
+My name is **Henrique Alves**. I am an IT instructor passionate about technology and software development. I believe in continuous education and knowledge sharing to create innovative solutions.
 
 <div align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast" alt="GitHub Stats"/>
@@ -9,25 +9,16 @@ Meu nome é **Henrique Alves**. Sou instrutor de TI apaixonado por tecnologia e 
 
 ---
 
-## Sobre Mim
+## About Me
 
-- 🎓 Instrutor de TI com experiência em desenvolvimento web e mobile.
-- 💻 Especializado em **JavaScript**, **TypeScript**, **Node.js**, **Python** e outras tecnologias.
-- 🚀 Sempre em busca de novos desafios e disposto a compartilhar conhecimento.
-- 🌱 Atualmente estudando tecnologias emergentes e aprimorando metodologias de ensino.
-
----
-
-## Projetos em Destaque
-
-- **[API NodeJS JWT](https://github.com/rickalves/api-nodejs-jwt)**  
-  API construída com Node.js, utilizando autenticação JWT para garantir a segurança. Um exemplo prático de como implementar autenticação robusta em aplicações modernas.
-
-*Confira mais projetos no meu [GitHub](https://github.com/rickalves).*
+- 🎓 IT instructor with experience in web and mobile development.
+- 💻 Specialized in **JavaScript**, **TypeScript**, **Node.js**, **Python**, and other technologies.
+- 🚀 Always looking for new challenges and willing to share knowledge.
+- 🌱 Currently studying emerging technologies and improving teaching methodologies.
 
 ---
 
-## Habilidades
+## Skills
 
 <div style="display: inline-block">
   <img title="HTML5" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -47,7 +38,7 @@ Meu nome é **Henrique Alves**. Sou instrutor de TI apaixonado por tecnologia e 
 
 ---
 
-## Atividade no GitHub
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickalves&theme=react-dark" alt="GitHub Activity Graph" />
@@ -63,7 +54,7 @@ Meu nome é **Henrique Alves**. Sou instrutor de TI apaixonado por tecnologia e 
 
 ---
 
-## Entre em Contato
+## Contact Me
 
 <div>
   <a href="https://www.instagram.com/rick_alves.r/" target="_blank">
