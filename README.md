@@ -49,14 +49,6 @@ My name is **Henrique Alves**. I am an IT instructor passionate about technology
 
 ---
 
-## GitHub Streak
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=rickalves&theme=highcontrast"/>
-</p>
-
----
-
 ## Contact Me
 
 <div>
