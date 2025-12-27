@@ -1,6 +1,10 @@
-# Hello, welcome! 👋
+## 👋 Hello, welcome!
 
-My name is **Henrique Alves**. I am an IT instructor passionate about technology and software development. I believe in continuous education and knowledge sharing to create innovative solutions.
+I'm **Henrique Alves**, a **Software Engineer** focused on building scalable and well-architected applications
+using modern web technologies.
+I enjoy solving real-world problems through clean architecture, maintainable code
+and thoughtful system design.
+
 
 <div align="center">
   <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast" alt="GitHub Stats"/>
@@ -9,18 +13,25 @@ My name is **Henrique Alves**. I am an IT instructor passionate about technology
 
 ---
 
-## About Me
+### 🧱 Tech Stack
 
-- 🎓 IT instructor with experience in web and mobile development.
-- 💻 Specialized in **JavaScript**, **TypeScript**, **Node.js**, **Python**, and other technologies.
-- 🚀 Always looking for new challenges and willing to share knowledge.
-- 🌱 Currently studying emerging technologies and improving teaching methodologies.
+- **Languages:** TypeScript, JavaScript, Python
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** NestJS, Node.js, REST APIs
+- **Databases:** PostgreSQL, MongoDB, Supabase
+- **Auth & Security:** JWT, OAuth, RBAC
+- **DevOps:** Docker, CI/CD (GitHub Actions)
+- **Cloud:** AWS (basic), Supabase
 
 ---
+### 👨‍🏫 Background
 
-## Skills
+- IT Instructor with strong experience mentoring developers
+- Used to explaining complex technical concepts clearly
+- Experience with code reviews, system design discussions and team collaboration
+---
 
-<div style="display: inline-block"> 
+<!-- <div style="display: inline-block"> 
   <img title="Figma" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
   <img title="HTML5" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img title="CSS3" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
@@ -37,9 +48,7 @@ My name is **Henrique Alves**. I am an IT instructor passionate about technology
   <img title="AWS" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> 
   <img title="Google Cloud" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> 
   <img title="Vercel" alt="vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-</div>
-
----
+</div> -->
 
 ## GitHub Activity
 
@@ -49,13 +58,7 @@ My name is **Henrique Alves**. I am an IT instructor passionate about technology
 
 ---
 
-## Contact Me
+### 📬 Contact
 
-<div>
-  <a href="https://www.instagram.com/rick_alves.r/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/henrique-alves-685a1777/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/henrique-alves-685a1777/
+- 📧 **Email:** [henryworkdev@gmail.com](mailto:henryworkdev@gmail.com)
