@@ -1,49 +1,95 @@
 ## 👋 Hello, welcome!
 
-I'm **Henrique Alves**, a **Full Stack Developer** focused on building scalable,
-well-structured **web and mobile applications** using modern technologies.
+I'm **Henrique Alves Raulino**, a **Software Engineer & Technical Educator**
+focused on building scalable, well-architected web and mobile systems.
 
-I work across the entire stack from user interfaces to backend services
-and databases always prioritizing **clean architecture**, **maintainable code**
-and solutions that solve **real-world problems** with reliability and performance.
+I work across the entire stack — from intuitive user interfaces to
+robust backend services and data layers — applying principles such as
+Clean Architecture, Domain-Driven Design (DDD), and API-first design.
 
-I have solid experience designing RESTful APIs, implementing authentication
-and authorization flows, writing automated tests, and producing clear technical
-documentation to support long-term system evolution.
+I care about system reliability, performance, maintainability,
+and long-term evolution.
 
 ---
 
 ## 🧱 Core Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Python  
-- **Frontend:** Next.js, React, Tailwind CSS  
-- **Mobile:** React Native (Expo)  
-- **Backend:** NestJS, Node.js, REST APIs  
-- **Databases:** PostgreSQL, MongoDB, Supabase  
-- **Auth & Security:** JWT, OAuth, RBAC  
-- **Testing:** Jest, Unit & Integration Tests  
-- **Documentation:** Swagger (OpenAPI), Markdown  
-- **DevOps:** Docker, CI/CD (GitHub Actions)  
-- **Cloud:** AWS (basic), Supabase  
+### 🖥️ Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+---
+
+### ⚙️ Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### 🔐 Auth & Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-8E44AD?style=for-the-badge)
+
+---
+
+### 🧪 Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 🏗️ Background
 
-- IT Instructor with strong experience mentoring developers  
-- Skilled at explaining complex technical concepts clearly  
-- Experience with code reviews, system design discussions,
-  and collaborative team environments  
+- Software Engineer since 2017  
+- Technical Educator mentoring future developers  
+- Experience leading full stack projects from architecture to deployment  
+- Strong focus on system design, clean code and scalable architecture  
 
 ---
-## 🔍 Currently Working On
 
-- Building and evolving full stack applications with Next.js and NestJS
-- Improving automated tests, CI pipelines, and API documentation
-- Deepening knowledge in system design and scalable architectures
+## 🚀 Currently Deepening
+
+- Distributed Systems  
+- Event-Driven Architecture (EDA)  
+- Microservices & Messaging Patterns  
+- Observability & Production-Grade Systems  
+
 ---
 
 ## 📬 Contact
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/henrique-alves-685a1777/  
-- 📧 **Email:** [henryworkdev@gmail.com](mailto:henryworkdev@gmail.com)
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/henrique-alves-685a1777/
+
+📧 **Email**  
+henryworkdev@gmail.com
