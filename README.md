@@ -56,7 +56,7 @@ and long-term evolution.
 
 ## 🏗️ Background
 
-- Software Engineer since 2017  
+- Software Engineer since 2019  
 - Technical Educator mentoring future developers  
 - Experience leading full stack projects from architecture to deployment  
 - Strong focus on system design, clean code and scalable architecture  
@@ -78,4 +78,4 @@ and long-term evolution.
 https://www.linkedin.com/in/henrique-alves-685a1777/
 
 📧 **Email**  
-henryworkdev@gmail.com
+henryworkdev.ti@gmail.com
