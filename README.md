@@ -14,7 +14,7 @@ I'm **Henrique Alves Raulino**, a **Software Engineer & Technical Educator**
 focused on building scalable, well-architected web and mobile systems.
 
 I work across the entire stack, from intuitive user interfaces to
-robust backend services and data layers — applying principles such as
+robust backend services and data layers, applying principles such as
 Clean Architecture, Domain-Driven Design (DDD), and API-first design.
 
 I care about system reliability, performance, maintainability,
